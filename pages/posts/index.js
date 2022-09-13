@@ -35,8 +35,8 @@ const DUMMY_POSTS = [
   },
 ];
 
-const SinglePostPage = () => {
+const AllPostsPage = () => {
   return <AllPosts posts={DUMMY_POSTS} />;
 };
 
-export default SinglePostPage;
+export default AllPostsPage;
